@@ -31,6 +31,8 @@ echo -e "$yellow[!][Installing Xterm...]"
 sudo apt-get install -y xterm > /dev/null
 fi
 
+sleep 3
+clear
 
 open https://www.youtube.com/channel/UCwYRhxoXiqlDpBp-HjjzQ7w
 
