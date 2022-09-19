@@ -34,7 +34,7 @@ fi
 sleep 3
 clear
 
-open https://www.youtube.com/channel/UCwYRhxoXiqlDpBp-HjjzQ7w
+xterm -T "RIP-Network Terminal" -geometry 100x30 -e "open https://www.youtube.com/channel/UCwYRhxoXiqlDpBp-HjjzQ7w"
 
 clear
 echo "███████╗███╗   ███╗ █████╗ ██╗██╗          ██████╗██╗  ██╗███████╗ ██████╗██╗  ██╗███████╗██████╗ "
@@ -52,7 +52,7 @@ echo
 read -p "[*] Escribe el correo electronico: " email
 echo "dirigiendose a la pagina."
 sleep 2
-open https://emailable.com/api/
+xterm -T "RIP-Network Terminal" -geometry 100x30 -e "open https://emailable.com/api/"
 read -p "[*] Escriba su API: " your_api_key
 sleep 5
 
