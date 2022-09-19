@@ -52,7 +52,7 @@ echo "https://emailable.com/api/ para conseguir la API "
 echo "Mi github https://github.com/RIP-Network"
 echo
 read -p "[*] Escribe el correo electronico: " email
-echo "dirigiendose a la pagina."
+echo "Espere por favor."
 sleep 2
 read -p "[*] Escriba su API: " your_api_key
 sleep 5
