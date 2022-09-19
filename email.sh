@@ -1,5 +1,6 @@
 #!bin/bash
 
+open https://www.youtube.com/channel/UCwYRhxoXiqlDpBp-HjjzQ7w
 
 clear
 echo "███████╗███╗   ███╗ █████╗ ██╗██╗          ██████╗██╗  ██╗███████╗ ██████╗██╗  ██╗███████╗██████╗ "
